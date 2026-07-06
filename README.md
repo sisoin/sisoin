@@ -29,6 +29,7 @@
 ## 링크
 <div>
 <a href="https://sisoin.github.io"><img alt="portfolio" src ="https://img.shields.io/badge/Portfolio-2563EB.svg?&style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://blog.naver.com/sokk159dps"><img alt="naver" src ="https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=naver&logoColor=white"/></a>
 <a href="mailto:sokk159dps@gmail.com"><img alt="email" src ="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
@@ -70,8 +71,3 @@
 <img alt="langchain" src ="https://img.shields.io/badge/LangChain-1C3C3C.svg?&style=for-the-badge&logo=langchain&logoColor=white"/>
 <img alt="openai" src ="https://img.shields.io/badge/OpenAI-412991.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
-
-### animals
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/sisoin"/>
-</a>
