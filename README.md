@@ -6,6 +6,24 @@
 클라우드 인프라 설계와 서버, 네트워크에 관심이 많은 클라우드 인프라 엔지니어입니다. Kubernetes, EKS, GitOps 기반의 배포 환경을 설계하고, LLM 에이전트를 활용한 서비스 개발에도 강점이 있습니다.<br/>
 항상 스스로 생각하며 문제를 파악하고, 트러블슈팅 경험을 장기 기억으로 전환하는 과정을 중요하게 생각합니다.
 
+## 프로젝트
+- **쿠버네티스 장애 자가진단·복구 AIOps 플랫폼** — Kubernetes 장애를 LLM 멀티에이전트가 스스로 진단·복구하는 AIOps 플랫폼. Main Peer ↔ Cluster Peer 오케스트레이션, 복구 승인(HITL) 플로우, 장애 대응 챗봇 구현 (Kubernetes·EKS, Spring Boot, LangGraph, Kafka, PostgreSQL·pgvector, Envoy Gateway, Prometheus, Grafana, Loki, Litmus)
+  [GitHub](https://github.com/team-Nelm/OnePO)
+- **관광·티켓 예약 MSA 플랫폼** — 15개 이상의 마이크로서비스로 분해한 대규모 MSA 플랫폼. Helm·ArgoCD 기반 GitOps로 배포 파이프라인 구성 (Kubernetes, Helm, ArgoCD, Spring Cloud Gateway, Kafka, React)
+  [GitHub](https://github.com/DubaiCookie)
+- **MSA 기반 온라인 강의 플랫폼** — Spring Cloud Gateway·Eureka 위에 6개 서비스로 구성한 강의 플랫폼. 수강·결제 이벤트를 Kafka로 동기화 (Spring Boot, Eureka, Kafka, FastAPI, React)
+  [GitHub](https://github.com/Eye-Reading/Imflearn)
+- **AI 스타트업 투자 평가 에이전트** — 반도체 스타트업을 자동 탐색해 기술성·시장성을 평가하고 투자 우선순위 보고서를 생성하는 멀티에이전트. LangGraph Supervisor 라우팅 + Agentic RAG (LangGraph, GPT-4o, Qdrant, bge-m3)
+  [GitHub](https://github.com/Eye-Reading/rag-agent)
+- **배터리 기업 전략 분석 에이전트** — CATL·LG에너지솔루션의 시장·기술 경쟁력과 SWOT을 자동 분석해 PDF 보고서를 생성하는 멀티에이전트 시스템 (LangGraph, Tavily, Qdrant, WeasyPrint)
+  [GitHub](https://github.com/sisoin/solo-agent)
+- **JBIG Cafe** — Django REST 백엔드와 React·TypeScript 프론트를 분리한 커뮤니티 서비스. Docker·GitHub Actions 기반 CI/CD 구축 (Django, React, Docker, GitHub Actions)
+  [GitHub](https://github.com/dev-JBIG)
+- **축구 스타일 테스트** — 16가지 축구 스타일을 진단하고 유사 프로 선수를 추천하는 서비스. FastAPI 백엔드에 Gemini 기반 RAG AI 코치 결합 (FastAPI, Gemini, RAG, React)
+  [GitHub](https://github.com/daconFootball)
+- **I'm 표 — SBT 티켓 플랫폼** — Multi-Signature Wallet과 Soul Bound Token(SBT)을 활용한 그룹 기반 티켓 플랫폼. 졸업작품 (Spring Boot, Solidity, React Native, Web3)
+  [GitHub](https://github.com/capstone-ronaldo-8)
+
 ## 학력
 - 전북대학교 IT융합기전공학과 · 복수전공 소프트웨어공학과 (2020.03 ~ 2026.02)
 - SKALA Cloud 1기 클라우드 네이티브 과정 (2025.12 ~ 2026.06)
