@@ -1,8 +1,5 @@
-<h1 align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=sisoin;Cloud+Infrastructure+Engineer;Kubernetes+%26+DevOps)](https://git.io/typing-svg)
-
-</h1>
+<h1 align="center">배민준 (sisoin)</h1>
+<p align="center">Cloud Infrastructure Engineer · Kubernetes &amp; DevOps</p>
 
 ## 자기소개
 안녕하세요, 배민준입니다.<br/>
